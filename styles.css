@@ -228,6 +228,10 @@ button:focus-visible {
   font-size: 1.05rem;
 }
 
+#about p + p {
+  margin-top: 16px;
+}
+
 /* Skills */
 .skills-grid {
   display: grid;
