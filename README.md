@@ -1,18 +1,18 @@
-# Ezrah Kiilu — Portfolio
+# Ezrah Kiilu Portfolio
 
-Personal portfolio website for Ezrah Kiilu — Software Engineer, Finance Manager, and Data Analyst.
+Personal portfolio website for Ezrah Kiilu: Software Engineer, Finance Manager, and Data Analyst.
 
 **Live site:** [ezrah1.github.io/Portfolio](https://ezrah1.github.io/Portfolio/)
 
 ## Highlights
 
-- **JobKash** — AI-powered recruitment platform with job aggregation, resume analysis, an employer dashboard, ATS, and AI recommendations.
-- **Hotel Management System** — Complete hospitality platform: reservations, POS, inventory, finance, housekeeping, and analytics.
-- **Kplusjobs.com** — Dynamic WordPress job board focused on user experience.
+- **JobKash**: AI-powered recruitment platform with job aggregation, resume analysis, an employer dashboard, ATS, and AI recommendations.
+- **Hotel Management System**: Complete hospitality platform covering reservations, POS, inventory, finance, housekeeping, and analytics.
+- **Kplusjobs.com**: Dynamic WordPress job board focused on user experience.
 
 ## Tech
 
-Built with plain HTML5 and CSS3 — no frameworks, no build step. Fully responsive and accessible.
+Built with plain HTML5 and CSS3. No frameworks, no build step. Fully responsive and accessible.
 
 ## Contact
 
